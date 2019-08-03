@@ -1,0 +1,12 @@
+If you are here you might use gmail. Right. It is not a problem. The only difference is that you won't use your password to connect but an application password created by google,
+only for this application. A unique password. Please follow the instructions:
+1. Access to your Google account.
+2. In the navigation panel on the left, click on "Security".
+3. In the panel "Connect to Google", click "Application Password".
+4. At the bottom of the page, click on "Select an application", then click on "Other" and write "CleanYourMail".
+5. Click on "Select a device", then choose the device you use.
+6. Click on "Generate".
+7. Copy the generated password (in yellow) and paste it in our application when it asks you to write your password.
+
+There is no need for you to remember it, we have save it for you
+If you have any problem please follow this link: https://support.google.com/accounts/answer/185833
